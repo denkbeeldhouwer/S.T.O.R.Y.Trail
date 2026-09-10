@@ -10,7 +10,7 @@ The unit of change is not distance but angle. Twelve stations, three hundred and
 
 Four stations are small reflection moments, five are mid-size interactive works, three are icons: the threshold, the ordeal, and the elixir circle. The rhythm is deliberate, and the crescendo is the point.
 
-We build backwards. The elixir circle at Presikhaaf, the end of the journey, is built first, next to the campuses. From there the trail is laid back toward the station. Understand backwards, live forwards.
+We build backwards. The elixir circle at Presikhaaf, the end of the journey, is built first, next to the campuses. From there the trail is laid back toward the station. Søren Kierkegaard: 'Life Can Only Be Understood Backwards, But It Must Be Lived Forwards'
 
 ## Living willow
 
