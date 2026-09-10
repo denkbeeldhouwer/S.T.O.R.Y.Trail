@@ -2,30 +2,34 @@
 
 How this repository is kept, so that contributors and collaborators — human or otherwise — do not have to guess.
 
-## What belongs here, and what does not
+## Three layers
 
-The dividing question: **does it name a person, or could a stranger use it?**
+This project is public in two registers and private in a third.
 
-**Public, and in this repository.** The concept. The twelve stations and their spatial design. Route data. Willow construction and maintenance knowledge. Design principles. Anything someone would need to build a version of this in their own city. Findings stripped of the people who provided them — *municipal willow prunings can supply the material, provided it creates no extra work for the maintenance crew* is useful to everyone; the name of the coordinator who said it is not.
+**The map — public, English.** The transferable work: the concept, the twelve stations and their spatial design, route data, willow construction and maintenance, design principles. Everything a stranger needs to build a version of this in their own city, with findings stripped of the people who provided them. This is the body of the repository.
 
-**Private, and kept elsewhere.** Letters to partners. Meeting notes. Names of civil servants, funders and collaborators who have not publicly committed. Internal relationships, commitments, and anything said in confidence.
+**The path — public, Dutch.** The living process, while it happens: process notes, designs in motion, what worked and what did not, the muddy middle. This is StoryDoing, not StoryTelling — the page turns only once something has been made of it. It lives in `StoryDoing - DUTCH`. Dutch, because the people walking alongside this particular trail read Dutch; the map is English for the strangers who will build their own.
 
-Nobody's name appears in this repository until they have agreed to it.
+**The well — private, kept out.** Raw conversations, confidences, a NotebookLM as a raw filter, names of people who have not agreed. This never enters the repository. It lives in Dutch, outside git.
+
+## The one boundary
+
+Nobody's name appears in this repository — the path included — until they have agreed to it. Name a role ("a willow artist", "the municipality") where consent is not yet given. Things said in confidence stay in the well. An open process is not the same as exposing a person, and the relationships this trail depends on are worth more than the transparency.
+
+## Public does not mean editable
+
+The world may read everything here. Only invited collaborators — the design team — may write. Anyone else can at most propose a change, which the maintainer accepts or declines. Public means followable, not open to be rummaged in.
 
 ## Language
 
-English throughout. This repository exists to be transferable, and the people who will find it — living willow builders, wild pedagogy researchers, place-based educators — are not all Dutch.
-
-Letters, meeting notes and the book are written in Dutch and live outside this repository. Dutch is for the people; English is for the work.
-
-A handful of Dutch terms are kept untranslated because translating them loses them: *denkbeeldhouwer*, *grenskunst*, *van het padje af*. Gloss them once, then use them.
+English is the map; Dutch is the path. A handful of Dutch terms are kept untranslated because translating them loses them: *DenkBeeldHouwer*, *GrensKunst*, *VanHetPadjeAf*, *StoryDoing*. Gloss them once, then use them.
 
 ## Facts that are easy to get wrong
 
-- The trail is **9.5 km**. The **80 km** green corridor from Arnhem to beyond Apeldoorn is a separate fact, cited only to show what the city has. Never conflate the two.
+- The trail is **9.5 km** (Arnhem Centraal to Park Presikhaaf). The **80 km** green corridor from Arnhem to beyond Apeldoorn is a separate fact, cited only to show what the city has to offer. Never conflate the two, only use 9,5 km as the measure of the trail.
 - **Will Beckers** — double L.
-- Arnhem is **National Education City 2026**.
-- The circle at Presikhaaf is the **elixir circle**.
+- Arnhem is **National Education City 2026** (Nationale Onderwijsstad).
+- The circle at Presikhaaf is a kind of StoryDome, a sort of**elixir circle** (Elixerkring)to share stories.
 
 ## Licensing
 
@@ -38,13 +42,14 @@ Contributions by others — an artist's design, a student's drawing — remain t
 ## Structure
 
 ```
-README.md          What this is
-CONVENTIONS.md     This file
-LICENSE            CC BY-SA 4.0
-/route             GPX, waypoints, maps
-/stations          One directory per station: design, siting, questions
-/growing           Planting, pruning, seasonal maintenance
-/code              Tools and web components (MIT)
+README.md            What this is
+CONVENTIONS.md       This file
+LICENSE              CC BY-SA 4.0
+/route               GPX, waypoints, maps
+/stations            One directory per station: design, siting, questions
+/growing             Planting, pruning, seasonal maintenance
+/code                Tools and web components (MIT)
+StoryDoing - DUTCH   The living process, in Dutch (the path)
 ```
 
 ## Writing
