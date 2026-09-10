@@ -42,4 +42,4 @@ Everything here is CC BY-SA 4.0, except `/code`, which is MIT. Share alike is th
 
 ---
 
-*denkbeeldhouwer* — literally an idea-sculptor; the name the maker of this trail works under.
+*denkbeeldhouwer* — literally an idea-sculptor; the name the firestarter of this trail.
