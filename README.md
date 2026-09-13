@@ -1,6 +1,6 @@
 # S.T.O.R.Y.-Trail
 
-A walking trail of living willow, 9.5 km from Arnhem Centraal to Park Presikhaaf, between two campuses. Twelve installations stand along it, each a step in the journey of the hero, and a thirteenth is the walk itself. The willow grows, changes with the seasons, and is pruned each winter by the students who learn nearby and the people who live there.
+A walking trail of living willow, 9.5 km from station to station. From Arnhem Centraal to Presikhaaf, between two campuses. Twelve installations stand along it, each a step in the journey of the hero, and a thirteenth is the walk itself. The willow grows, changes with the seasons, and is pruned each winter by the students who learn nearby and the people who live there.
 
 The trail is designed and drawn. Nothing is in the ground yet.
 
